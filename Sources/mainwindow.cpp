@@ -695,8 +695,3 @@ void MainWindow::on_comboBox_currentTextChanged(const QString &arg1)
     ui->listWidget_2->addItems(bookList);
 }
 
-void MainWindow::on_groupBox_3_clicked()
-{
-
-}
-
