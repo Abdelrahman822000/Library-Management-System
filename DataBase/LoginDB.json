@@ -1,0 +1,27 @@
+[
+    {
+        "UserName" : "Mohanad",
+        "Password" : "1234",
+        "Auth" : "Admin"
+    },
+    {
+        "UserName" : "Abdelrahman",
+        "Password" : "8200",
+        "Auth" : "Admin"
+    },
+	{
+        "UserName" : "Ahmed",
+        "Password" : "9874",
+        "Auth" : "User"
+    },
+    {
+        "UserName" : "Karim",
+        "Password" : "5678",
+        "Auth" : "User"
+    },
+    {
+        "UserName" : "Hamdy",
+        "Password" : "9123",
+        "Auth" : "User"
+    }
+]
