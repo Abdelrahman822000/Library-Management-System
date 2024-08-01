@@ -44,15 +44,15 @@ In this scenario, whenever the user interacts with the app (initiated by selecti
 
 # How to Use
 
-- **Login:** Enter your username and password, then press Login.
-  
-- **Search for a Book:** Enter the search criteria (author, barcode, category, title) and press Search.
+- **Login:** Enter your username and password, then press Login.![LoginPage](https://github.com/user-attachments/assets/afd01035-db5e-43b7-8bc8-2c7b624009b2)
 
-- **Add a New Book:** Fill in the book details (author, barcode, category, title) and press Add.
+- **Search for a Book:** Enter the search criteria (author, barcode, category, title) and press Search.![Search](https://github.com/user-attachments/assets/1041280b-ff83-49c0-844a-ef5cfa95571c)
 
-- **Manage Books:** Use the provided functionalities to edit or delete book details as needed.
+- **Add a New Book:** Fill in the book details (author, barcode, category, title) and press Add.![Add Book](https://github.com/user-attachments/assets/fd96e3ce-750f-4308-92b2-480425c8da9c)
 
-- **Exit:** Press exit to close the application.
+- **Remove books:** Remove book from the library.![Remove Book](https://github.com/user-attachments/assets/d19b5505-d481-405a-b955-25e4beaa6146)
+
+- **Exit:** Press exit to close the application.![Output](https://github.com/user-attachments/assets/786196cf-7801-49c4-82d2-0dcca8dfacac)
 
 # Contact
 
