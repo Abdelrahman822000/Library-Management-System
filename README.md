@@ -50,9 +50,11 @@ In this scenario, whenever the user interacts with the app (initiated by selecti
 
 - **Add a New Book:** Fill in the book details (author, barcode, category, title) and press Add.![Add Book](https://github.com/user-attachments/assets/fd96e3ce-750f-4308-92b2-480425c8da9c)
 
-- **Remove books:** Remove book from the library.![Remove Book](https://github.com/user-attachments/assets/d19b5505-d481-405a-b955-25e4beaa6146)
+- **Remove books:** Remove book from the library.
+  ![Remove Book](https://github.com/user-attachments/assets/d19b5505-d481-405a-b955-25e4beaa6146)
 
-- **Exit:** Press exit to close the application.![Output](https://github.com/user-attachments/assets/786196cf-7801-49c4-82d2-0dcca8dfacac)
+- **Clear:** Clear the Output field.
+- **Exit:** Press exit to return to login page.![Output](https://github.com/user-attachments/assets/786196cf-7801-49c4-82d2-0dcca8dfacac)
 
 # Contact
 
