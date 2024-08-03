@@ -1,4 +1,4 @@
-**Abdelrahman Mohamed Hamad** made this App
+**Abdelrahman Mohamed Hamad** made this Project
 
 # Table of Contents
 - [Library Management System](#library-management-system)
