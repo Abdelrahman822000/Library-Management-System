@@ -1,4 +1,4 @@
-**Abdelrahman Mohamed Hamad** made this Project
+**This Project was developed by Abdelrahman Mohamed Hamad**
 
 # Table of Contents
 - [Library Management System](#library-management-system)
