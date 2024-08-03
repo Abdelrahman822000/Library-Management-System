@@ -3,7 +3,6 @@
 # Table of Contents
 - [Library Management System](#library-management-system)
   - [About the App](#about-the-app)
-  - [App Task](#app-task)
 - [Instructions](#instructions)
 - [How to Use](#how-to-use)
 - [Contact](#contact)
@@ -14,11 +13,7 @@ The Library Management System app is designed to manage a collection of books, p
 
 ## About the App
 
-The Library Management System app allows users to maintain a comprehensive collection of books categorized by author, barcode, category, and title. Users can search for books, add new ones, and manage the existing collection seamlessly.
-
-## App Task
-
-In this scenario, when users interact with the app (initiated by selecting a function), they can perform various tasks such as searching for a book by different criteria, adding a new book, and managing the book collection.
+The Library Management System app allows users to maintain a comprehensive collection of books categorized by author, barcode, category, and title. Admins have the ability to search for books, add new ones, and seamlessly remove unwanted books from the collection. Regular users can only search for books.
 
 # Instructions
 
