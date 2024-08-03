@@ -1,4 +1,4 @@
-**This App was made by Abdelrahman Mohamed Hamad**
+**Abdelrahman Mohamed Hamad ** made this App
 
 # Table of Contents
 - [Library Management System](#library-management-system)
@@ -10,7 +10,7 @@
 
 # Library Management System
 
-The Library Management System app is designed to manage a collection of books, providing functionalities to search, add, and manage book details efficiently.
+The Library Management System app is designed to manage a collection of books, providing functionalities to Search for, add, and remove books efficiently.
 
 ## About the App
 
@@ -18,7 +18,7 @@ The Library Management System app allows users to maintain a comprehensive colle
 
 ## App Task
 
-In this scenario, whenever the user interacts with the app (initiated by selecting a function), they can perform various tasks such as searching for a book by different criteria, adding a new book, and managing the book collection.
+In this scenario, when users interact with the app (initiated by selecting a function), they can perform various tasks such as searching for a book by different criteria, adding a new book, and managing the book collection.
 
 # Instructions
 
